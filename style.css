@@ -349,22 +349,22 @@ div#toggle-btn {
 }
 
 .slides-2 {
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(/airport-g686e6f1b6_1920.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../airport-g686e6f1b6_1920.jpg);
 }
 .slides-3{
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(/classic-gf7fdac7af_1920.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../classic-gf7fdac7af_1920.jpg);
 }
 .slides-7{
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(/classic-gf7fdac7af_1920.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../classic-gf7fdac7af_1920.jpg);
 }
 .slides-4 {
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(/great-wall-of-china-gb1c4972cc_1920.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../great-wall-of-china-gb1c4972cc_1920.jpg);
 }
 .slides-5 {
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(/photographer-gb730ed96d_1920.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../photographer-gb730ed96d_1920.jpg);
 }
 .slides-6 {
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(/sightseer-g85447738a_1920.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../sightseer-g85447738a_1920.jpg);
 }
 section#welcome-text {
     text-align: center;
